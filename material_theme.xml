@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="userId" value="4c132897:16c8b931662:-8000" />
+    <option name="version" value="4.3.2" />
+  </component>
+</application>
